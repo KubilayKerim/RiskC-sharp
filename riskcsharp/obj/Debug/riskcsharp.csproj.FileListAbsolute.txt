@@ -1,0 +1,22 @@
+C:\Users\yunus\Desktop\veri yapıları vize\riskcsharp\riskcsharp\bin\Debug\riskcsharp.exe.config
+C:\Users\yunus\Desktop\veri yapıları vize\riskcsharp\riskcsharp\obj\Debug\riskcsharp.Form1.resources
+C:\Users\yunus\Desktop\veri yapıları vize\riskcsharp\riskcsharp\obj\Debug\riskcsharp.Properties.Resources.resources
+C:\Users\yunus\Desktop\veri yapıları vize\riskcsharp\riskcsharp\obj\Debug\riskcsharp.csproj.GenerateResource.Cache
+C:\Users\yunus\Desktop\veri yapıları vize\riskcsharp\riskcsharp\bin\Debug\riskcsharp.exe
+C:\Users\yunus\Desktop\veri yapıları vize\riskcsharp\riskcsharp\bin\Debug\riskcsharp.pdb
+C:\Users\yunus\Desktop\veri yapıları vize\riskcsharp\riskcsharp\obj\Debug\riskcsharp.exe
+C:\Users\yunus\Desktop\veri yapıları vize\riskcsharp\riskcsharp\obj\Debug\riskcsharp.pdb
+C:\Users\yunus\Desktop\veri yapıları vize\riskcsharp\riskcsharp\obj\Debug\riskcsharp.Games.resources
+C:\Users\yunus\Desktop\veri yapıları vize\riskcsharp\riskcsharp\obj\Debug\riskcsharp.csprojResolveAssemblyReference.cache
+C:\Users\yunus\Desktop\veri yapıları vize\riskcsharp\riskcsharp\obj\Debug\riskcsharp.drmAtak.resources
+C:\Users\yunus\Desktop\veri yapıları vize\riskcsharp\riskcsharp\obj\Debug\riskcsharp.Yer_Degistirme.resources
+C:\Users\yunus\Desktop\riskcsharp\riskcsharp\bin\Debug\riskcsharp.exe.config
+C:\Users\yunus\Desktop\riskcsharp\riskcsharp\obj\Debug\riskcsharp.exe
+C:\Users\yunus\Desktop\riskcsharp\riskcsharp\obj\Debug\riskcsharp.pdb
+C:\Users\yunus\Desktop\riskcsharp\riskcsharp\obj\Debug\riskcsharp.csprojResolveAssemblyReference.cache
+C:\Users\yunus\Desktop\riskcsharp\riskcsharp\obj\Debug\riskcsharp.drmAtak.resources
+C:\Users\yunus\Desktop\riskcsharp\riskcsharp\obj\Debug\riskcsharp.Form1.resources
+C:\Users\yunus\Desktop\riskcsharp\riskcsharp\obj\Debug\riskcsharp.Games.resources
+C:\Users\yunus\Desktop\riskcsharp\riskcsharp\obj\Debug\riskcsharp.Properties.Resources.resources
+C:\Users\yunus\Desktop\riskcsharp\riskcsharp\obj\Debug\riskcsharp.Yer_Degistirme.resources
+C:\Users\yunus\Desktop\riskcsharp\riskcsharp\obj\Debug\riskcsharp.csproj.GenerateResource.Cache
